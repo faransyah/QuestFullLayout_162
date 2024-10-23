@@ -40,7 +40,7 @@ fun Layout(modifier: Modifier = Modifier){
             judul = "Alamat", isinya = "Bantul Kasihan"
         )
         DetailMahasiswa(
-            judul = "Email", isinya = "muhammadfaransyah@gmail.com"
+            judul = "Email", isinya = "muhammadfaransyah1@gmail.com"
         )
         DetailMahasiswa(
             judul = "No Hp", isinya = "085959375796"
